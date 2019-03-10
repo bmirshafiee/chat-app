@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="add_image_description_string">add an image message</string>
+    <string name="message_hint_string">message</string>
+    <string name="send_button_string">send</string>
+    <string name="google_sign_in_string">Sign in with Google</string>
+    <string name="sign_out_string">sign out</string>
+    <string name="message_text_view_string">message text view</string>
+    <string name="messenger_text_view_string">messenger text</string>
+    <string name="image_description">image desc</string>
+    <string name="invitation_title">chat app invite</string>
+    <string name="invite_message">Please join me for a chat</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="invite_string">invite</string>
+</resources>
